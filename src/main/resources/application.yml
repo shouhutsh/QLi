@@ -1,0 +1,6 @@
+wechat:
+  mp:
+    appId: appId
+    secret: secret
+    token: token
+    aesKey: aesKey
